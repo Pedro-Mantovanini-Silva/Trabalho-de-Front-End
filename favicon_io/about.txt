@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Maiden Orange
+- Font Title: Neucha
 - Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/maidenorange/v30/kJE1BuIX7AUmhi2V4m08kb1XjOZdCZS8FY8.ttf
+- Font Source: https://fonts.gstatic.com/s/neucha/v17/q5uGsou0JOdh94bvugNsCxVEgA.ttf
 - Font License: undefined)
